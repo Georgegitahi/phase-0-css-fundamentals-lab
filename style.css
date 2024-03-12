@@ -3,3 +3,44 @@ body {
   height: 100%;
   margin: 0;
 }
+.Peter{
+  text-align: center;
+}
+header,main{
+  width: 700px;
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+header a{
+  background-color:gray;
+  padding: 5px;
+}
+.image{
+  display: block;
+  width: 600px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#details{
+  display: flex;
+  margin: auto;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: red;
+}
